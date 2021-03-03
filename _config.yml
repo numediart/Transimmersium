@@ -1,9 +1,9 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
-# url: "https://peterdesmet.github.io"  # No slash at the end
-# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+title: TRANSIMMERSIUM                        # Title in top navigation bar (navbar) and <head>
+description: TRANSIMMERSIUM Intereg Micro-project # Site description in <head>
+author: Matei Mancas                    # Used for copyright statement in footer
+# url: "https://numediart.github.io/Transimmersium"  # No slash at the end
+# baseurl: "/Transimmersium"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
@@ -13,8 +13,8 @@ twitter_username: peterdesmet           # Social icon in footer
 github_username: peterdesmet            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
 colors:
