@@ -11,5 +11,5 @@ This is a demo website for [Petridish](https://github.com/peterdesmet/petridish)
 
 Test
 
-[Project partners](https://github.com/numediart/Transimmersium/blob/main/assets/img/trans_partners.jpg)
+[Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_partners.jpg)
 _Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
