@@ -1,7 +1,6 @@
 ---
-layout: home
-title: TRANSIMMERSIUM
-description: Immersive Simulation and Eye-tracking
+title: TRANSIMMERSIUM - Action 1
+description: 3D Data acquisition
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /action1/
 ---
