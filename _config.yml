@@ -8,9 +8,9 @@ author: Matei Mancas                    # Used for copyright statement in footer
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
+email: matei.mancas@example.com           # Social icon in footer
+twitter_username:         # Social icon in footer
+github_username:           # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
