@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: action1
 title: TRANSIMMERSIUM
 description: Immersive Simulation and Eye-tracking
 background: /assets/img/chuttersnap-146799-unsplash.jpg
