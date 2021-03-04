@@ -4,8 +4,6 @@
   href: /
 - text: Partners
   href: /partners/
-- text: Team
-  href: /team/
 - text: Actions
   menu: # Dropdown menu (one level deep only)
   - text: Action 1 - 3D Data Acquisition

@@ -24,9 +24,9 @@ Project Actions :
 _Transimmersium three research actions to achieve the goal._
 
 In this context, the micro-project (3 months) has three main actions : 
-* 3D Data acquisition
-* VR Model & Simulation
-* Eye-tracking data acquisition
+* 3D Data acquisition of one round-about in Mons and one in Douai thanks to a 3D scanner
+* VR Model & Simulation in Unnity for the two round-abouts with car mouvements, different weather, visibility and medical conditions
+* Eye-tracking data acquisition based on an embedded eye-tracker in VR headsets of a user making the tour of the round-about
 
 ---
 
