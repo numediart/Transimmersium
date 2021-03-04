@@ -1,7 +1,7 @@
 ---
 title: Project-Action 2
 description: VR Model & Simulation
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/trans_Action1_scan2.jpg
 permalink: /action2/
 ---
 
