@@ -8,11 +8,11 @@
   href: /team/
 - text: Actions
   menu: # Dropdown menu (one level deep only)
-  - text: Action 1 : 3D Data Acquisition
+  - text: Action 1 - 3D Data Acquisition
     href: /action1/
-  - text: Action 2 : VR Model & Simulation
+  - text: Action 2 - VR Model & Simulation
     href: /action2/
-  - text: Action 3 : Eye-tracking Acquisition
+  - text: Action 3 - Eye-tracking Acquisition
     href: /action3/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Related links" # Title for block of menu items
