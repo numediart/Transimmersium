@@ -13,5 +13,5 @@ Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brou
 
 He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
 
-[Project partners]({{ site.baseurl }}{% link /assets/images/trans_partners.jpg?fit=crop %})
+[Project partners]({{ site.baseurl }}{% link /assets/images/trans_partners.jpg %})
 _Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
