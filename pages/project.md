@@ -10,7 +10,24 @@ permalink: /
 {: .alert .alert-info}
 Project Context :
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+The problem of the safety of vulnerable users on urban road networks arises in a comparable way on both sides of the French/Belgian border in a densely populated area (1762 hab/km² in Mons and 2410 hab/km² in Douai) with many foreign users (cross-border workers, tourists, etc.). The urban tissues are close but nevertheless have some particularity that may surprise and therefore present dangers that only a joint study can reveal.
+
+![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_context.jpg)
+_Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+
+Realistic immersive simulations are a suitable solution to the problem. They enable volunteers to be placed safely in "dangerous" situations and to objectively measure their visual attention in a set of characteristic situations that are representative of the infrastructures present on either side of the border. The hypothesis of the project is that the analysis of attention allows recommendations for mobility managers in cross-border cities. This project aims in providing a proof of concept (POC) of a full pipeline from 3D data acquisition to eye-tracking data acquisition. 
+
+![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_actions.jpg)
+_Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+
+In this context, the micro-project (3 months) has three main actions : 
+* 3D Data acquisition
+* VR Model & Simulation
+* Eye-tracking data acquisition
+
+---
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_partners.jpg)
 _Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+
+---
