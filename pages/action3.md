@@ -1,8 +1,8 @@
 ---
-title: Project-Action 2
+title: Project-Action 3
 description: VR Model & Simulation
 background: /assets/img/chuttersnap-146799-unsplash.jpg
-permalink: /action2/
+permalink: /action3/
 ---
 
 
