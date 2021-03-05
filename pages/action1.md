@@ -31,8 +31,8 @@ Proofs - videos of Mons and Douai roundabouts :
 
 [![Point cloud acquisition - Douai roundabout](http://img.youtube.com/vi/Rt71vzozXPI/0.jpg)](http://www.youtube.com/watch?v=Rt71vzozXPI "Point cloud acquisition - Douai roundabout")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rt71vzozXPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_Point cloud acquisition - Douai roundabout_
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Rt71vzozXPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Point cloud acquisition - Douai roundabout_</center>
 
 
 ---
