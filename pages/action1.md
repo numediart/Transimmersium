@@ -29,6 +29,9 @@ _Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen
 {: .alert .alert-info}
 Proofs - videos of Mons and Douai roundabouts :
 
+[![Point cloud acquisition - Douai roundabout](http://img.youtube.com/vi/Rt71vzozXPI/0.jpg)](http://www.youtube.com/watch?v=Rt71vzozXPI "Point cloud acquisition - Douai roundabout")
+_Point cloud acquisition - Douai roundabout_
+
 
 ---
 
