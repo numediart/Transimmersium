@@ -14,6 +14,10 @@ _Invitation to zoom final meeting._
 
 Here you can find the recorded Zoom presentation : 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xza-ho7cXpQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Zoom presentation_
+
+
 
 ---
 
