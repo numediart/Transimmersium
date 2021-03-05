@@ -15,7 +15,7 @@ A test scenario was developed jointly for the tests in Belgium and France in ord
 * In a second step, the user uses the HTC Vive joystick to move around the roundabout. He is instructed to go around the roundabout as quickly as possible, preferably avoiding accidents. His journey starts in one of the three possible starting positions. If a person does not feel well during the test, they can rest and then start again with a recalibration of the eyes. 
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_action3_pipeline.jpg)
-_Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+_Experiments : scenarios and practical organization._
 
 For each of the nine configurations tested, a majority of people went around the roundabouts counter-clockwise and a minority clockwise. Myopia was the most disabling medical situation regardless of the weather conditions or time of day.   
 Testing was made more complex than expected due to the COVID-19 epidemic. In addition to the need to disinfect all the equipment between two users, it was much more difficult to recruit people for the tests, most of whom work remotely. However, we carried out about ten tests in Mons and the same number in Douai. Documents related to data confidentiality have been signed by the users and will be attached to the results. 
@@ -27,8 +27,10 @@ In this sense, following action 3, a proof of concept (POC) was obtained showing
 Proofs - Unity video and first results :
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_action3_trajectory.jpg)
-_Transimmersium micro-project is funded by Interreg France, Wallonie, Vlaanderen._
+_Example of data output : user position, pedestrian corssing (green), potential accidents (cars versus people position)._
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvlZir2HDqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Example of video with the interface and the view of the user when makig a tour of the roundabout_
 
 
 ---
