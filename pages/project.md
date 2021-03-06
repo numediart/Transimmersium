@@ -2,7 +2,7 @@
 layout: home
 title: TRANSIMMERSIUM
 description: Immersive Simulation and Eye-tracking
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/trans_action3_tests1.jpg
 permalink: /
 ---
 
@@ -25,7 +25,7 @@ _Transimmersium three research actions to achieve the goal._
 
 In this context, the micro-project (3 months) has three main actions : 
 * 3D Data acquisition of one round-about in Mons and one in Douai thanks to a 3D scanner
-* VR Model & Simulation in Unnity for the two round-abouts with car mouvements, different weather, visibility and medical conditions
+* VR Model & Simulation in Unnity for the two roundabouts with car mouvements, different weather, visibility and medical conditions
 * Eye-tracking data acquisition based on an embedded eye-tracker in VR headsets of a user making the tour of the round-about
 
 ---

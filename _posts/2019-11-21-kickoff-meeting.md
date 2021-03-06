@@ -1,7 +1,7 @@
 ---
 title: Kickoff meeting
 description: 21 November 2019 in Mons, Belgium
-background: "https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/meetup.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"
+background: "https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/meetup3.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80"
 author: [Matei Mancas]
 categories: [Meetings, Shared category]
 ---
@@ -15,7 +15,8 @@ and was supported by the FEDER/Wallonia/EnMieux and City of Mons.
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/meetup2.png)
 _Official Meetup communication image from https://www.facebook.com/numediart._
 
-
+![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/meetup.png)
+_Official Meetup communication image from https://www.facebook.com/polemuseal.mons._
 ---
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_partners.jpg)

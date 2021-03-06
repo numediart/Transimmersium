@@ -1,7 +1,7 @@
 ---
 title: Project-Action 3
 description: VR Model & Simulation
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/trans_action3_tests1.jpg
 permalink: /action3/
 ---
 
@@ -27,10 +27,10 @@ In this sense, following action 3, a proof of concept (POC) was obtained showing
 Proofs - Unity video and first results :
 
 ![Project partners](https://raw.githubusercontent.com/numediart/Transimmersium/main/assets/img/trans_action3_trajectory.jpg)
-_Example of data output : user position, pedestrian corssing (green), potential accidents (cars versus people position)._
+_Example of data output : user path from positions history (gray line), pedestrian corssing (green), potential accidents (cars versus people position). Head and eye directions are also available to check where the user is looking to understand why this accident occured._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvlZir2HDqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_Example of video with the interface and the view of the user when makig a tour of the roundabout_
+_Example of video with the interface and the view of the user when making a tour of the roundabout_
 
 
 ---
