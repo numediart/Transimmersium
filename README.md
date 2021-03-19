@@ -119,7 +119,7 @@ defaults:
 
 ### Markdown options
 
-See https://peterdesmet.github.io/petridish/about for an overview of the Markdown syntax you can use in pages and posts.
+See https://peterdesmet.github.io/petridish/about for an overview of the Markdown syntax you can use in pages and posts. For an example of markdown page please refer to the "about.md" in "pages"
 
 ### Navigation
 
@@ -155,9 +155,6 @@ github_username: your_github_username
 
 Create a [`_data/footer.yml`](_data/footer.yml) file to add text, links and/or a disclaimer to the [footer](https://peterdesmet.github.io/petridish/).
 
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/peterdesmet/petridish. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
